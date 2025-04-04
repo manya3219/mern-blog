@@ -65,16 +65,16 @@ Make sure you have the following installed:
 
 ## Screenshots
 ### login Page
-![Home Page](images/blog login.png)
+![Home Page](images/bloglogin.png)
 
 ### signup Page
-![Home Page](images/blog signup.png)
+![Home Page](images/blogsignup.png)
 
 ### Home Page
 ![Home Page](images/home.png)
 
 ### Create Blog Post Page
-![Post](images/create post (blog).png)
+![Post](images/createpost.png)
 
 
 ### Create Blog Post Page
@@ -82,7 +82,7 @@ Make sure you have the following installed:
 
 
 ###  Blog Post Page
-![Post](images/blog page.png)
+![Post](images/blogpage.png)
 
 
 ### Dashboard
