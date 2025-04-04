@@ -66,7 +66,7 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### Home Page
-![Home Page](images/homepage.png)
+![Home Page](images/home.png)
 
 ### Blog Post Page
 ![Blog Post](images/blogpost.png)
