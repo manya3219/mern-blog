@@ -64,12 +64,26 @@ Make sure you have the following installed:
 - Responsive design
 
 ## Screenshots
+### login Page
+![Home Page](images/blog login.png)
+
+### signup Page
+![Home Page](images/blog signup.png)
 
 ### Home Page
 ![Home Page](images/home.png)
 
-### Blog Post Page
-![Blog Post](images/blogpost.png)
+### Create Blog Post Page
+![Post](images/create post (blog).png)
+
+
+### Create Blog Post Page
+![Post](images/create post (blog).png)
+
+
+###  Blog Post Page
+![Post](images/blog page.png)
+
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
