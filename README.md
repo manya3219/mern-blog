@@ -67,11 +67,14 @@ Make sure you have the following installed:
 ### Login Page
 ![Login Page](images/bloglogin.png)
 
+
 ### Signup Page
 ![SignUp Page](images/blogsignup.png)
 
+
 ### Home Page
 ![Home Page](images/home.png)
+
 
 ### Create Blog Post Page
 ![Create Blog Post](images/createpost.png)
@@ -81,8 +84,10 @@ Make sure you have the following installed:
 ![Blog Post Page](images/blogpage.png)
 
 
+
 ### Dashboard
 ![Dashboard](images/Dashboard.png)
+
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
