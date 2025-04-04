@@ -86,7 +86,7 @@ Make sure you have the following installed:
 
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
