@@ -18,7 +18,7 @@ A full-featured **Blog Website** built using the **MERN stack** (MongoDB, Expres
 **Frontend:**
 - React.js
 - React Router
-- Tailwind CSS / Bootstrap
+- Tailwind CSS 
 
 **Backend:**
 - Node.js
