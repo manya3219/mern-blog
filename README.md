@@ -31,14 +31,17 @@ A full-featured **Blog Website** built using the **MERN stack** (MongoDB, Expres
 
 ## 📷 Screenshots
 
-### 🏠 Home Page
-![Home](images/home.png)
+
 
 ### 🔐 Blog Signup
 ![Signup](images/blogsignup.png)
 
 ### 🔑 Blog Login
 ![Login](images/bloglogin.png)
+
+
+### 🏠 Home Page
+![Home](images/home.png)
 
 ### 📝 Create Post
 ![Create Post](images/createpost.png)
